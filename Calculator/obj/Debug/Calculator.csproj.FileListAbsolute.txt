@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\C# Class\zuze\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\C# Class\First Lab\Calculator\Calculator\obj\Debug\Calculator.pdb
